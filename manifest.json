@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "made by OEOTYAN",
+        "name": "喜报",
+        "uuid": "bb6d98d7-cbe8-4f87-b304-2eb66f918b36",
+        "version": [
+            0,
+            0,
+            1
+        ],
+        "min_engine_version": [
+            1,
+            13,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "made by OEOTYAN",
+            "type": "resources",
+            "uuid": "b68358fa-f624-4e83-b455-24c82c49c310",
+            "version": [
+                0,
+                0,
+                1
+            ]
+        }
+    ]
+}
